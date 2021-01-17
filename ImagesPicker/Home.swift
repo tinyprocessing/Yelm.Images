@@ -15,6 +15,8 @@ struct Home: View {
     var body: some View {
         VStack{
             
+            Text("Press button to select some photos")
+            
             Button(action: {
                 
                 DispatchQueue.main.asyncAfter(deadline: .now()) { [self] in
