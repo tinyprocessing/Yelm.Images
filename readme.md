@@ -20,7 +20,7 @@ This project will help you figure out how to make a custom picture selection fro
 
 ### Examples
 
-1. Connect **ModalAnchorView** to init view - in this case it will cover all other content
+1. **Start.swift** - connect **ModalAnchorView** to init view - in this case it will cover all other content
 
 ```swift
 ZStack {
