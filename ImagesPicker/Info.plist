@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Предоставьте доступ к геолокации, для корректного отображения адреса доставки.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Предоставьте доступ к геолокации, для корректного отображения адреса доставки.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Предоставьте доступ к камере для сканирования QR кода</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Предоставьте доступ к фотографиям для взаимодеййствия с чатом</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
